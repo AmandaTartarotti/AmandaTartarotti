@@ -1,6 +1,7 @@
 👋 Hi, I’m @AmandaTartarotti
 
 =================
+<!--ts-->
 
 - Currently:
 
