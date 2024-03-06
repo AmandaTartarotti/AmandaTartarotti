@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @AmandaTartarotti
+👋 Hi, I’m @AmandaTartarotti
+
+=================
 
 - Currently:
 
