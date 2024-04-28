@@ -15,8 +15,18 @@ I love challenging myself in hackathons and sharing my knowledge on LinkedIn!
 [![Gmail](https://img.shields.io/badge/-gmail-A32FF7?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:amandatartarotti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A32FF7?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/amandatartarottisilva/)
 
+<h3 align="left">My Stack</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,java,php,sqlite,py" />
+</a>
 
-- Currently:
+<h3 align="left">Technologies I'm learning</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,c" />
+</a>
 
-BSc in Informatics and Computing Engineering @ FEUP
+<h3 align="left">Currently</h3>
+
+- 🎓 BSc in Informatics and Computing Engineering @FEUP
+- 👀 Looking for a summer internship program
 
