@@ -6,7 +6,7 @@ Welcome to my GitHub!
 
 <p align="left"> I believe that creative collaboration between design and technology is the magic that takes experiences from good to great. In my journey, I've experienced the world of SEO, where I learned a lot about good web development practices and recently I got a UX Design certification through a scholarship 100% funded by Google. 
 
-Understanding users' needs and creating products that make people's lives easier is what keeps me motivated. I am also a big fan of dashboards and love building spreadsheets to track my goals.
+Creating products that make people's lives easier is what keeps me motivated. I am also a big fan of dashboards and love building spreadsheets to track my goals.
   
 I love challenging myself in hackathons and sharing my knowledge on LinkedIn!
 
