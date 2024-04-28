@@ -12,8 +12,8 @@ I love challenging myself in hackathons and sharing my knowledge on LinkedIn!
 
 <h3 align="left">Connect with me!</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandatartarotti@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandatartarottisilva/)
+[![Gmail](https://img.shields.io/badge/-gmail-A32FF7?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:amandatartarotti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A32FF7?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/amandatartarottisilva/)
 
 
 - Currently:
