@@ -8,7 +8,10 @@ Welcome to my GitHub!
   
 I love challenging myself in hackathons and sharing my knowledge on LinkedIn!
 
+<h3 align="left">Currently</h3>
 
+<p align="left">🎓 BSc in Informatics and Computing Engineering @FEUP
+<p align="left">👀 Looking for a summer internship program
 
 <h3 align="left">Connect with me!</h3>
 
@@ -24,11 +27,6 @@ I love challenging myself in hackathons and sharing my knowledge on LinkedIn!
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,c" />
 </a>
-
-<h3 align="left">Currently</h3>
-
-<p align="left">🎓 BSc in Informatics and Computing Engineering @FEUP
-<p align="left">👀 Looking for a summer internship program
 
 <h3 align="left">GitHub Stats</h3>
 
