@@ -1,3 +1,4 @@
+<img align="right" alt="brown hair girl studing in her computer" height="300px" src="./me.jpg">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=A32FF7&random=false&width=435&lines=Hello+World%2C+I%E2%80%99m+Amanda!" alt="Typing SVG" /></a>
 -----
