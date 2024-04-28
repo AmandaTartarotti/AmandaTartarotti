@@ -8,7 +8,7 @@ Welcome to my GitHub!
 
 Creating products that make people's lives easier is what keeps me motivated. I am also a big fan of dashboards and love building spreadsheets to track my goals.
   
-I love challenging myself in hackathons and sharing my knowledge on LinkedIn!
+I'm always challenging myself in hackathons and sharing my knowledge on LinkedIn!
 
 <h3 align="left">My Stack</h3>
 <a href="https://skillicons.dev">
