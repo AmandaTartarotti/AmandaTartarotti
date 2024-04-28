@@ -32,3 +32,4 @@ I love challenging myself in hackathons and sharing my knowledge on LinkedIn!
 
 <h3 align="left">GitHub Stats</h3>
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmandaTartarotti&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/AmandaTartarotti/github-readme-stats)
+
