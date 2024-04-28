@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! 
 
-I believe that creative collaboration between design and technology is the magic that takes experiences from good to great. In my journey, I've experienced the world of SEO, where I learned a lot about good web development practices and recently I got a UX Design certification through a scholarship 100% funded by Google. Here you can check my latest projects!
+I believe that creative collaboration between design and technology is the magic that takes experiences from good to great. In my journey, I've experienced the world of SEO, where I learned a lot about good web development practices and recently I got a UX Design certification through a scholarship 100% funded by Google. Check my latest projects!
 
 - Currently:
 
