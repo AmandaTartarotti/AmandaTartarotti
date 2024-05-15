@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! 
 
-<p align="left"> I believe creative collaboration between design and technology is the magic that takes experiences from good to great. In my journey, I've experienced the world of SEO, where I learned a lot about good web development practices and recently I got a UX Design certification through a scholarship 100% funded by Google. 
+<p align="left"> I believe creative collaboration between design and technology is the magic that takes experiences from good to great. In my journey, I've experienced the world of SEO, where I learned a lot about good web development practices. I love data analysis and recently got a UX Design certification through a scholarship 100% funded by Google. 
 
 I'm always challenging myself in hackathons and exploring different areas within tech!
 
