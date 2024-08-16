@@ -18,6 +18,7 @@ I'm always challenging myself in hackathons and exploring different areas within
   <img src="https://skillicons.dev/icons?i=django" />
 </a>
 
+<h3><a href="https://docs.google.com/document/d/153bGeB0R2hThXXXn_RF-zpdSJtw8rIEF/edit?usp=sharing&ouid=115411933896070971682&rtpof=true&sd=true"><code>📃Online Resume</code></a></h3>
 <h3 align="left">Currently</h3>
 
 <p align="left">🎓 BSc in Informatics and Computing Engineering @FEUP
@@ -50,3 +51,13 @@ I'm always challenging myself in hackathons and exploring different areas within
   />
 </picture>
 
+<h2 align = "center" >Uni Projects</h2>
+<p align = "center">
+
+| UC   | Name              | Description                                                                                                                                                   | Grade (/20) |
+|------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| LTDS | [BoardGame](https://github.com/AmandaTartarotti/ticktacktoe)  | A new way to play the classic tic-tac-toe board game implemented in Java. Followed SOLID principles and included unit tests using JUnit and Mockito.                                                                                                         | 19.8        |
+| AED  | [AirED](https://github.com/AmandaTartarotti/aired)     | Airline Database Management System in C++ using several datastructures                                                                                        | 19.6        |
+| DA  | [Water](https://github.com/peucastro/DA2324_PRJ1_G184) | A Water Supply Management Analysis Tool build through Algorithms that manipulate Graphs                                                                          | 18.8        |
+| ESOF | [Martech](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC13T1)     | A marketplace to promote circular economy between university students                                     | 17        |
+| LCOM | [Bomberman](https://github.com/AmandaTartarotti/bomberman_c)  | Bomberman Game project in C and implemented to contain all devices taught in LCOM                                                      | 17        |
