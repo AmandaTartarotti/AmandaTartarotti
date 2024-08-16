@@ -4,19 +4,24 @@
 
 Welcome to my GitHub! 
 
-<p align="left"> I believe creative collaboration between design and technology is the magic that takes experiences from good to great. In my journey, I've experienced the world of SEO, where I learned a lot about good web development practices. I love data analysis and recently got a UX Design certification through a scholarship 100% funded by Google. 
+<p align="left"> I believe creative collaboration between design and technology is the magic that takes experiences from good to great. I'm a junior fullstack developer, certified UX Design by Google and a computer engineer student at University of Porto. 
 
 I'm always challenging myself in hackathons and exploring different areas within tech!
 
 <h3 align="left">My Stack</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,java,php,sqlite,py" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,c,cpp,java,php,sqlite,flutter" />
 </a>
 
 <h3 align="left">Technologies I'm learning</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,c" />
+  <img src="https://skillicons.dev/icons?i=django" />
 </a>
+
+<h3 align="left">Currently</h3>
+
+<p align="left">🎓 BSc in Informatics and Computing Engineering @FEUP
+<p align="left">👩🏻‍💻 Software Engineer Intern at Continental 
 
 <h3 align="left">GitHub Stats</h3>
 
@@ -24,15 +29,11 @@ I'm always challenging myself in hackathons and exploring different areas within
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmandaTartarotti&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/AmandaTartarotti/github-readme-stats)
 <be>
 
-<h3 align="left">Currently</h3>
-
-<p align="left">🎓 BSc in Informatics and Computing Engineering @FEUP
-<p align="left">👀 Looking for a summer internship program
-
 <h3 align="left">Connect with me!</h3>
 
 [![Gmail](https://img.shields.io/badge/-gmail-A32FF7?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:amandatartarotti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A32FF7?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/amandatartarottisilva/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-A32FF7?style=for-the-badge&logo=leetcode&logoColor=FFF)](https://leetcode.com/u/amanda_silva/)
 
 <picture>
   <source
