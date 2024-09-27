@@ -1,4 +1,4 @@
-<img align="right" alt="brown hair girl studing in her computer" height="300px" src="./me.jpg">
+<img align="right" alt="brown hair girl studing in her computer" height="280px" src="./me.jpg">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=A32FF7&random=false&width=435&lines=Hello+World%2C+I%E2%80%99m+Amanda!" alt="Typing SVG" /></a>
 
@@ -10,12 +10,12 @@ I'm always challenging myself in hackathons and exploring different areas within
 
 <h3 align="left">My Stack</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,c,cpp,java,php,sqlite,flutter" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,django,java,php,c,cpp,sqlite" />
 </a>
 
 <h3 align="left">Technologies I'm learning</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=haskell,docker,postgres,laravel" />
 </a>
 
 <h3><a href="https://docs.google.com/document/d/153bGeB0R2hThXXXn_RF-zpdSJtw8rIEF/edit?usp=sharing&ouid=115411933896070971682&rtpof=true&sd=true"><code>📃Online Resume</code></a></h3>
