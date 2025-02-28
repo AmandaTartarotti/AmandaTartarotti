@@ -4,10 +4,13 @@
 
 Welcome to my GitHub! 👋
 
-<p align="left"> I believe creative collaboration between design and technology is the magic that takes experiences from good to great. I'm interested in software development, machine learning and creating easy to use designs for my applications.
+<p align="left"> I am passionate about transforming people's lives through technology! I am very interested in algorithms, software development, and creating easy to use designs for my applications.
 
 <p align="left">🎓 BSc in Informatics and Computing Engineering @FEUP
-<p align="left"> 🔭 I’m working on Computer Graphics & AI projects 
+  <p align="left">🎨 Certified UX Designer by Google
+<p align="left">🔭 I’m currently working on Computer Graphics & AI projects 
+  
+<h4 align="left"> <a href="https://docs.google.com/document/d/153bGeB0R2hThXXXn_RF-zpdSJtw8rIEF/edit?usp=sharing&ouid=115411933896070971682&rtpof=true&sd=true"><code>📃Resume</code></a>
 
 
 <h3 align="left">My Stack and Technologies</h3>
@@ -22,7 +25,7 @@ Welcome to my GitHub! 👋
 ![Code: PHP](https://img.shields.io/badge/Code-PHP-AF00F6?style=flat&logo=PHP&logoColor=white)
 ![Code: SQLite](https://img.shields.io/badge/SQLite-AF00F6?style=flat&logo=sqlite&logoColor=white)
 
-<h3><a href="https://docs.google.com/document/d/153bGeB0R2hThXXXn_RF-zpdSJtw8rIEF/edit?usp=sharing&ouid=115411933896070971682&rtpof=true&sd=true"><code>📃Online Resume</code></a></h3>
+<h3></h3>
 
 <picture>
   <source
@@ -45,13 +48,13 @@ Welcome to my GitHub! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A32FF7?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/amandatartarottisilva/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-A32FF7?style=for-the-badge&logo=leetcode&logoColor=FFF)](https://leetcode.com/u/amanda_silva/)
 
-<h2 align = "center" >Uni Projects</h2>
+<h2 align = "center" >Projects</h2>
 <p align = "center">
 
-| UC   | Name              | Description                                                                                                                                                   | Grade (/20) |
-|------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| LTDS | [BoardGame](https://github.com/AmandaTartarotti/ticktacktoe)  | A new way to play the classic tic-tac-toe board game implemented in Java. Followed SOLID principles and included unit tests using JUnit and Mockito.                                                                                                         | 19.8        |
-| AED  | [AirED](https://github.com/AmandaTartarotti/aired)     | Airline Database Management System in C++ using several datastructures                                                                                        | 19.6        |
-| DA  | [Water](https://github.com/peucastro/DA2324_PRJ1_G184) | A Water Supply Management Analysis Tool build through Algorithms that manipulate Graphs                                                                          | 18.8        |
-| ESOF | [Martech](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC13T1)     | A marketplace to promote circular economy between university students                                     | 17        |
-| LCOM | [Bomberman](https://github.com/AmandaTartarotti/bomberman_c)  | Bomberman Game project in C and implemented to contain all devices taught in LCOM                                                      | 17        |
+| Project Name            | Description                                                                                                                                                   | Development |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| [BoardGame](https://github.com/AmandaTartarotti/ticktacktoe)  | A new way to play the classic tic-tac-toe board game implemented in Java. Followed SOLID principles and included unit tests using JUnit and Mockito.                                                                                                         |    Java    |
+| [AirED](https://github.com/AmandaTartarotti/aired)     | Airline Database Management System using several datastructures                                                                                        | C++        |
+| [Water](https://github.com/peucastro/DA2324_PRJ1_G184) | A Water Supply Management Analysis Tool build through Algorithms that manipulate Graphs                                                                          | C++       |
+| [Martech](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC13T1)     | A marketplace to promote circular economy between university students                                     | Flutter        |
+| [Bomberman](https://github.com/AmandaTartarotti/bomberman_c)  | Bomberman Game project in C and implemented to contain all devices taught in LCOM                                                      | C        |
