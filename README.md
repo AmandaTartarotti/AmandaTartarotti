@@ -6,9 +6,9 @@ Welcome to my GitHub! 👋
 
 <p align="left"> I am passionate about transforming people's lives through technology! I am very interested in algorithms, software development, and creating easy to use designs for my applications.
 
-<p align="left">🎓 BSc in Informatics and Computing Engineering @FEUP
+<br> <p align="left"> 🔭 Currently MSc in Computing Engineering and Smart Systems @[EHU](https://www.ehu.eus/es/home)
+<br> <p align="left"> 🎓 BSc in Informatics and Computing Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
   <p align="left">🎨 Certified UX Designer by Google
-<p align="left">🔭 I’m currently working on Computer Graphics & AI projects 
   
 <h4 align="left"> <a href="https://docs.google.com/document/d/153bGeB0R2hThXXXn_RF-zpdSJtw8rIEF/edit?usp=sharing&ouid=115411933896070971682&rtpof=true&sd=true"><code>📃Resume</code></a>
 
@@ -53,8 +53,12 @@ Welcome to my GitHub! 👋
 
 | Project Name            | Description                                                                                                                                                   | Development |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| [Stock Portfolio Optimisation](https://github.com/afonsofernandess/StockPortfolioOptimisation) | AI tool that optimizes a stock portfolio performance using meta-heuristics algorithms | Python |
+| [Diabetes Prediction](https://github.com/afonsofernandess/Diabetes-Prediction) |  A project that implements various machine learning models to predict diabetes using a dataset available on Kaggle | Pyhton | 
 | [BoardGame](https://github.com/AmandaTartarotti/ticktacktoe)  | A new way to play the classic tic-tac-toe board game implemented in Java. Followed SOLID principles and included unit tests using JUnit and Mockito.                                                                                                         |    Java    |
+| [Java-- Compiler](https://github.com/cosmintianu/jmm-compiler) | A compiler from Java-- to OLLIR and then JASMIN | Java |
 | [AirED](https://github.com/AmandaTartarotti/aired)     | Airline Database Management System using several datastructures                                                                                        | C++        |
 | [Water](https://github.com/peucastro/DA2324_PRJ1_G184) | A Water Supply Management Analysis Tool build through Algorithms that manipulate Graphs                                                                          | C++       |
-| [Martech](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC13T1)     | A marketplace to promote circular economy between university students                                     | Flutter        |
 | [Bomberman](https://github.com/AmandaTartarotti/bomberman_c)  | Bomberman Game project in C and implemented to contain all devices taught in LCOM                                                      | C        |
+| [Doblin](https://github.com/AmandaTartarotti/doblin) | Strategic board game where players can compete against a computer bot | Prolog |
+| [Martech](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC13T1)     | A marketplace to promote circular economy between university students                                     | Flutter        |
