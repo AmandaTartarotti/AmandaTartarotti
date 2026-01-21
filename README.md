@@ -53,6 +53,7 @@ Welcome to my GitHub! 👋
 
 | Project Name            | Description                                                                                                                                                   | Development |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| [ML + Les Misérables](https://github.com/AmandaTartarotti/les-miserables-social-network-ml) | Social network analysis of Les Misérables with machine learning (Naive Bayes, KNN, Neural Networks, Decision Trees, Random Forests) | Python |
 | [Stock Portfolio Optimisation](https://github.com/afonsofernandess/StockPortfolioOptimisation) | AI tool that optimizes a stock portfolio performance using meta-heuristics algorithms | Python |
 | [Diabetes Prediction](https://github.com/afonsofernandess/Diabetes-Prediction) |  A project that implements various machine learning models to predict diabetes using a dataset available on Kaggle | Pyhton | 
 | [BoardGame](https://github.com/AmandaTartarotti/ticktacktoe)  | A new way to play the classic tic-tac-toe board game implemented in Java. Followed SOLID principles and included unit tests using JUnit and Mockito.                                                                                                         |    Java    |
