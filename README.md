@@ -51,15 +51,21 @@ Welcome to my GitHub! 👋
 <h2 align = "center" >Projects</h2>
 <p align = "center">
 
-| Project Name            | Description                                                                                                                                                   | Development |
+| Project Name            | Description                                                                                                                                                   | Technologies |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| [ML + Les Misérables](https://github.com/AmandaTartarotti/les-miserables-social-network-ml) | Social network analysis of Les Misérables with machine learning (Naive Bayes, KNN, Neural Networks, Decision Trees, Random Forests) | Python |
-| [Stock Portfolio Optimisation](https://github.com/afonsofernandess/StockPortfolioOptimisation) | AI tool that optimizes a stock portfolio performance using meta-heuristics algorithms | Python |
-| [Diabetes Prediction](https://github.com/afonsofernandess/Diabetes-Prediction) |  A project that implements various machine learning models to predict diabetes using a dataset available on Kaggle | Pyhton | 
-| [BoardGame](https://github.com/AmandaTartarotti/ticktacktoe)  | A new way to play the classic tic-tac-toe board game implemented in Java. Followed SOLID principles and included unit tests using JUnit and Mockito.                                                                                                         |    Java    |
-| [Java-- Compiler](https://github.com/cosmintianu/jmm-compiler) | A compiler from Java-- to OLLIR and then JASMIN | Java |
-| [AirED](https://github.com/AmandaTartarotti/aired)     | Airline Database Management System using several datastructures                                                                                        | C++        |
-| [Water](https://github.com/peucastro/DA2324_PRJ1_G184) | A Water Supply Management Analysis Tool build through Algorithms that manipulate Graphs                                                                          | C++       |
-| [Bomberman](https://github.com/AmandaTartarotti/bomberman_c)  | Bomberman Game project in C and implemented to contain all devices taught in LCOM                                                      | C        |
-| [Doblin](https://github.com/AmandaTartarotti/doblin) | Strategic board game where players can compete against a computer bot | Prolog |
-| [Martech](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC13T1)     | A marketplace to promote circular economy between university students                                     | Flutter        |
+| [🔵 AI Approach in Statistical Physics](https://github.com/AmandaTartarotti/ising-model-lso) | Machine Learning applied to physical systems, it achieves 99% accuracy in phase classification of a 2D Ising model | Python, PyTorch |
+| [🔵 ML + Les Misérables](https://github.com/AmandaTartarotti/les-miserables-social-network-ml) | Graph ML & social network analysis, implements and compares 5 Machine Learning models (Naive Bayes, KNN, Neural Networks, Decision Trees, Random Forests) | Python |
+| [🔵 Stock Portfolio Optimisation](https://github.com/afonsofernandess/StockPortfolioOptimisation) | AI tool that optimizes a stock portfolio performance using meta-heuristics algorithms | Python |
+| [🔵 Diabetes Prediction](https://github.com/afonsofernandess/Diabetes-Prediction) | Applied Machine Learning in healthcare, the project evaluates multiple classifiers and analyzes model performance | Python | 
+| [🔴BoardGame](https://github.com/AmandaTartarotti/ticktacktoe)  | Developed a board game following SOLID principles and implemented unit and mock testing with JUnit and Mockito. |    Java    |
+| [🟢 Java-- Compiler](https://github.com/cosmintianu/jmm-compiler) | Implemented a full compiler pipeline from Java-- to OLLIR and Jasmin, covered parsing, semantic analysis, and code generation | Java |
+| [🟢 AirED](https://github.com/AmandaTartarotti/aired)     | Airline Database Management System using several datastructures                                                                                        | C++        |
+| [🟢 Water](https://github.com/peucastro/DA2324_PRJ1_G184) | A Water Supply Management Analysis Tool build through Algorithms that manipulate Graphs                                                                          | C++       |
+| [🔴 Bomberman](https://github.com/AmandaTartarotti/bomberman_c)  | The classic Bomberman game implemented in C, focusing on low-level programming, core systems concepts and memory management | C        |
+| [🔴 Doblin](https://github.com/AmandaTartarotti/doblin) | Strategic board game where players can compete against a computer bot | Prolog |
+| [🔴 Martech](https://github.com/FEUP-LEIC-ES-2023-24/2LEIC13T1)     | Mobile marketplace to promote circular economy between university students  | Flutter        |
+
+**Topic Legend**:
+* 🔵 Machine Learning & Artificial Intelligence
+* 🟢 Algorithms, Compilers & Systems Programming
+* 🔴 Software Engineering, Games & Applications
