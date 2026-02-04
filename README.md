@@ -53,7 +53,9 @@ Welcome to my GitHub! 👋
 
 | Project Name            | Description                                                                                                                                                   | Technologies |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| [🔵 AI Approach in Statistical Physics](https://github.com/AmandaTartarotti/ising-model-lso) | Machine Learning applied to physical systems, it achieves 99% accuracy in phase classification of a 2D Ising model | Python, PyTorch |
+| [🔵 Automotive Fault Engine Detection](https://github.com/AmandaTartarotti/automotive_fault_detection) | Comparative time series classification for automotive engine fault detection using acoustic signals (MiniRocket, WEASEL v2.0, InceptionTime) | Python |
+| [🔵 Transformer Oil Temperature Forecasting](https://github.com/AmandaTartarotti/transformer-oil-temperature-forecasting)| Comparative time series forecasting of transformer oil temperature using statistical, machine learning, and deep learning models | Python, R |
+| [🔵 AI Approach in Statistical Physics](https://github.com/AmandaTartarotti/ising-model-lso) | Machine Learning applied to physical systems, it achieves 99% accuracy in phase classification of a 2D Ising model | Python |
 | [🔵 ML + Les Misérables](https://github.com/AmandaTartarotti/les-miserables-social-network-ml) | Graph ML & social network analysis, implements and compares 5 Machine Learning models (Naive Bayes, KNN, Neural Networks, Decision Trees, Random Forests) | Python |
 | [🔵 Stock Portfolio Optimisation](https://github.com/afonsofernandess/StockPortfolioOptimisation) | AI tool that optimizes a stock portfolio performance using meta-heuristics algorithms | Python |
 | [🔵 Diabetes Prediction](https://github.com/afonsofernandess/Diabetes-Prediction) | Applied Machine Learning in healthcare, the project evaluates multiple classifiers and analyzes model performance | Python | 
