@@ -10,7 +10,7 @@ Welcome to my GitHub! 👋
 <br> <p align="left"> 🎓 BSc in Informatics and Computing Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
   <p align="left">🎨 Certified UX Designer by Google
   
-<h4 align="left"> <a href="https://docs.google.com/document/d/153bGeB0R2hThXXXn_RF-zpdSJtw8rIEF/edit?usp=sharing&ouid=115411933896070971682&rtpof=true&sd=true"><code>📃Resume</code></a>
+<h4 align="left"> <a href="https://drive.google.com/file/d/1Ze0c65ElsqJXrtJdNypGbRRJtzGrbqfm/view?usp=sharing"><code>📃Resume</code></a>
 
 
 <h3 align="left">My Stack and Technologies</h3>
@@ -53,6 +53,7 @@ Welcome to my GitHub! 👋
 
 | Project Name            | Description                                                                                                                                                   | Technologies |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| [🔵 Personality Types](https://amandatartarotti.github.io/personality_types/) | How do personality tests work? Developed a supervised ML pipeline for MBTI personality prediction using LDA, kNN, and Random Forest with SHAP‑based interpretability. | R |
 | [🔵 Automotive Fault Engine Detection](https://github.com/AmandaTartarotti/automotive_fault_detection) | Comparative time series classification for automotive engine fault detection using acoustic signals (MiniRocket, WEASEL v2.0, InceptionTime) | Python |
 | [🔵 Transformer Oil Temperature Forecasting](https://github.com/AmandaTartarotti/transformer-oil-temperature-forecasting)| Comparative time series forecasting of transformer oil temperature using statistical, machine learning, and deep learning models | Python, R |
 | [🔵 AI Approach in Statistical Physics](https://github.com/AmandaTartarotti/ising-model-lso) | Machine Learning applied to physical systems, it achieves 99% accuracy in phase classification of a 2D Ising model | Python |
