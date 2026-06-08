@@ -4,26 +4,25 @@
 
 Welcome to my GitHub! 👋
 
-<p align="left"> I am passionate about transforming people's lives through technology! I am very interested in algorithms, software development, and creating easy to use designs for my applications.
+<p align="left"> I am passionate about transforming people's lives through technology! I am very interested in Algorithms, Data Science and Machine Learning.
+
+<h4 align="left"> <a href="https://drive.google.com/file/d/1gRiZUvkpG8FfEbeF3O7dhzEt1EAxzYGx/view?usp=sharing"><code>📃View my CV</code></a>
 
 <br> <p align="left"> 🔭 Currently MSc in Computing Engineering and Smart Systems @[EHU](https://www.ehu.eus/es/home)
 <br> <p align="left"> 🎓 BSc in Informatics and Computing Engineering @[FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
   <p align="left">🎨 Certified UX Designer by Google
-  
-<h4 align="left"> <a href="https://drive.google.com/file/d/1Ze0c65ElsqJXrtJdNypGbRRJtzGrbqfm/view?usp=sharing"><code>📃Resume</code></a>
 
 
 <h3 align="left">My Stack and Technologies</h3>
 
-![OS: Linux](https://img.shields.io/badge/OS-Linux-AF00F6?style=flat&logo=Linux&logoColor=white)
-![OS: Docker](https://img.shields.io/badge/docker-AF00F6?style=flat&logo=docker&logoColor=white)
 ![Code: Python](https://img.shields.io/badge/Code-Python-AF00F6?style=flat&logo=Python&logoColor=white)
-![Code: Python](https://img.shields.io/badge/Django-AF00F6?style=flat&logo=django&logoColor=white)
+![Code: Python](https://img.shields.io/badge/-Pandas-AF00F6?style=flat&logo=pandas)
+![Code: Python](https://img.shields.io/badge/scikit--learn-AF00F6?style=flat-square&logo=scikit-learn&logoColor=white)
+![Code: Python](https://img.shields.io/badge/-PyTorch-AF00F6?style=flat&logo=pytorch)
+![Code: SQLite](https://img.shields.io/badge/SQLite-AF00F6?style=flat&logo=sqlite&logoColor=white)
+![OS: Linux](https://img.shields.io/badge/OS-Linux-AF00F6?style=flat&logo=Linux&logoColor=white)
 ![Code: C++](https://img.shields.io/badge/Code-C%2B%2B-AF00F6?style=flat&logo=C%2B%2B&logoColor=white)
 ![Code: Java](https://img.shields.io/badge/Code-Java-AF00F6?style=flat&logo=Java&logoColor=white)
-![Code: C](https://img.shields.io/badge/Code-C-AF00F6?style=flat&logo=C&logoColor=white)
-![Code: PHP](https://img.shields.io/badge/Code-PHP-AF00F6?style=flat&logo=PHP&logoColor=white)
-![Code: SQLite](https://img.shields.io/badge/SQLite-AF00F6?style=flat&logo=sqlite&logoColor=white)
 
 <h3></h3>
 
